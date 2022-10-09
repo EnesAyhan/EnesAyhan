@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A101-Practicum**
 
-- 🌱 **JUnit,TestNG,Cucumber**
+- 🌱 Worked with **JUnit,TestNG,Cucumber**
 
 - 👯 I ran UI tests in a **Healthcare project**
 
