@@ -3,6 +3,12 @@
 
 - 🔭 I’m currently working on **A101-Practicum**
 
+- 🌱 We used Junit, TestNG and Cucumber frameworks **in these projects.**
+
+- 👯 I ran UI tests in a **healthcare project**
+
+- 🤝 I ran UI tests in a **e-commerce project**
+
 - 📫 How to reach me **enesayhan3232@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
