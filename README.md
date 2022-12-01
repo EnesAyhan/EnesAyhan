@@ -4,7 +4,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on **A101-Practicum**
+- 🔭 I’m worked on **A101-Practicum**
 
 - 🌱 Worked with **JUnit,TestNG,Cucumber Frameworks**
 
